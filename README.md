@@ -1,2 +1,2 @@
-# udemy-sample
+# sample
 Git Practice
